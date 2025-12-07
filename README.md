@@ -1,6 +1,7 @@
 <!-- 个人头像（居中+调整大小） -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1584732002-RGB/b_48c893d73bff1445561ce4f0edbb9f11.jpg" alt="我的头像" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/ken.guithub.io
+/b_48c893d73bff1445561ce4f0edbb9f11.jpg alt="我的头像" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 
