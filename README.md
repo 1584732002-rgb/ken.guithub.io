@@ -1,9 +1,9 @@
 <!-- 个人头像（居中+调整大小） -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1584732002-RGB/image-storage/main/img/b_48c893d73bff1445561ce4f0edbb9f11.jpg" alt="我的头像" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/1584732002-RGB/b_48c893d73bff1445561ce4f0edbb9f11.jpg" alt="我的头像" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
-# 👋 Hello, I'm [你的名字]!
+
 # ken.guithub.io
 ken的个人主页
 # 👋 Hello, I'm [岳ken]!
