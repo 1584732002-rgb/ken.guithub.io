@@ -1,6 +1,6 @@
 <!-- 个人头像（居中+调整大小） -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/你的GitHub用户名/image-storage/main/img/avatar.png" alt="我的头像" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/1584732002-RGB/image-storage/main/img/avatar.png" alt="我的头像" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 # 👋 Hello, I'm [你的名字]!
