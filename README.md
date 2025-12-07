@@ -4,16 +4,16 @@ ken的个人主页
 
 ## 🚀 About Me
 
-I'm a passionate [网络工程师] with expertise in [Your Main Skills]. I love building [What You Build] and exploring new technologies. When I'm not coding, you can find me [Your Hobbies/Interests].
+I'm a passionate [网络工程师] with expertise in [c++，python，go]. I love building [和谐网络环境] and exploring new technologies. When I'm not coding, you can find me [].
 
-- 🔭 Currently working on **[Current Project]**
-- 🌱 Currently learning **[What You're Learning]**
-- 👯 Looking to collaborate on **[Collaboration Interests]**
-- 🤔 Looking for help with **[What You Need Help With]**
-- 💬 Ask me about **[Topics You're Knowledgeable About]**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Fun Fact About You]**
+- 🔭 Currently working on **[crypto]**
+- 🌱 Currently learning **[RSA]**
+- 👯 Looking to collaborate on **[红蓝攻防]**
+- 🤔 Looking for help with **[CTF]**
+- 💬 Ask me about **[web，pwn，crypto]**
+- 📫 How to reach me: **[1584732002@qq.com]**
+- 😄 Pronouns: **[PERSIST]**
+- ⚡ Fun fact: **[learn]**
 
 ## 📊 GitHub Stats
 
@@ -75,21 +75,21 @@ I'm a passionate [网络工程师] with expertise in [Your Main Skills]. I love 
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/[Your Username]/[Project Repo 1])
+### [RSA](https://github.com/[Your Username]/[Project Repo 1])
 **Description:** Brief description of your project. What it does, what technologies it uses, and why it's awesome.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=[Your Username]&repo=[Project Repo 1]&theme=radical&hide_border=true" alt="[Project Name 1] Stats" />
 </div>
 
-### [Project Name 2](https://github.com/[Your Username]/[Project Repo 2])
+### [MD5](https://github.com/[Your Username]/[Project Repo 2])
 **Description:** Brief description of your project. What it does, what technologies it uses, and why it's awesome.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=[Your Username]&repo=[Project Repo 2]&theme=radical&hide_border=true" alt="[Project Name 2] Stats" />
 </div>
 
-### [Project Name 3](https://github.com/[Your Username]/[Project Repo 3])
+### [ASCII](https://github.com/[Your Username]/[Project Repo 3])
 **Description:** Brief description of your project. What it does, what technologies it uses, and why it's awesome.
 
 <div align="center">
@@ -126,10 +126,10 @@ I'm a passionate [网络工程师] with expertise in [Your Main Skills]. I love 
 
 ## 🎯 Current Goals
 
-- [ ] Master **[Skill You Want to Master]**
-- [ ] Contribute to **[Open Source Project]**
-- [ ] Build **[Project Idea]**
-- [ ] Learn **[New Technology]**
+- [ ] Master **[c++，crypto]**
+- [ ] Contribute to **[信息安全]**
+- [ ] Build **[attack]**
+- [ ] Learn **[linux]**
 
 ## 📄 License
 
